@@ -1,0 +1,10 @@
+- Title - House price prediction using XGBoost Regression.
+Regression is all about predicting continuous values such as age, price of an item, etc.
+- Steps included -
+1. Housing price data.
+2. Data Pre Processing.
+3. Data Analysis.
+4. Train Test Split.
+5. XGBoost Regressor.
+6. Evaluation.
+- Output - After training the XGBoost Regressor with the boston house data set, this model will predict the prices.
